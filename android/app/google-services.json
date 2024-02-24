@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379873765827",
+    "project_id": "weewawo-92d41",
+    "storage_bucket": "weewawo-92d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379873765827:android:af8b4a2e14d56e90f67576",
+        "android_client_info": {
+          "package_name": "com.example.weewawo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPXTDV8FdgceZiJmTzz4LDLDE--nstvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
